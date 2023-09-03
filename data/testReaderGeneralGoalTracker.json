@@ -1,0 +1,17 @@
+{
+  "goalList": [
+    {
+      "name": "bench",
+      "rep goal": 1,
+      "weight goal": 10,
+      "category": "STRENGTH"
+    },
+    {
+      "name": "flies",
+      "rep goal": 10,
+      "weight goal": 30,
+      "category": "HYPERTROPHY"
+    }
+  ],
+  "name": "Your Personalized Fitness Tracker"
+}

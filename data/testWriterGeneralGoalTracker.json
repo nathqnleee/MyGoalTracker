@@ -1,0 +1,17 @@
+{
+    "name": "Your Personalized Fitness Tracker",
+    "goalList": [
+        {
+            "name": "deadlift",
+            "rep goal": 1,
+            "weight goal": 10,
+            "category": "STRENGTH"
+        },
+        {
+            "name": "curls",
+            "rep goal": 5,
+            "weight goal": 100,
+            "category": "HYPERTROPHY"
+        }
+    ]
+}
